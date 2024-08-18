@@ -1,2 +1,1 @@
-print("plugin/example.lua is executed!")
-
+require("hello").setup()
